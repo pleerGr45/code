@@ -1,0 +1,5 @@
+name: BowWarsPlugin
+main: main.java.mc.bowwars.net.bowwars.BowWars
+version: 1.0
+commands:
+
